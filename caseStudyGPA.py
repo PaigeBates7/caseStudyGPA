@@ -13,5 +13,5 @@ else:
     if GPA >= 3.5:
         print("Student Has Made The Dean's List")
     else:
-        GPA >= 3.25
+       if GPA >= 3.25:
         print("Student Has Made Honor Roll")
